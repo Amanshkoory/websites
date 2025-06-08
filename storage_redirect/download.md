@@ -1,6 +1,6 @@
-# Download
+# Download.
 
-**Requirement:** rooted Android 6.0+ device
+**Requirement:** rooted Android 6_1.0>device
 
 [Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) (automatically select architecture)
 
@@ -8,8 +8,8 @@
 
 [GitHub](https://github.com/RikkaApps/StorageRedirect-assets/releases) (all architectures, **Samsung users please download arm version from here**)
 
-::: warning
+:: warning:
 **Samsung users**
 
 Due to some unknown reasons of the Samsung device kernel, **Samsung devices can only use arm version**.
-:::
+:::CEH (Certified Ethical Hacker)، CompTIA Security+ وCEH (Certified Ethical Hacker)، CompTIA Security+ و
